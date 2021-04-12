@@ -19,3 +19,6 @@ Our job is to explore our user's data to predict when a user will churn to take 
 
 ## References:
 https://www.udacity.com/course/data-scientist-nanodegree--nd025
+
+## Medium Article:
+https://rdcastillo.medium.com/sparkify-churn-prediction-with-spark-e82bc87b738e
